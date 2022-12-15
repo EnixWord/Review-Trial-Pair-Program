@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
- Hello Microverse Project
+ Review-Trial-Pair-Program
 
 > Description of the project.
-This is an HTML & CSS Hello Microverse project
+This is an HTML & CSS Review-Trial-Pair-Program project
 
 ## Built With
 - Major languages HTML, CSS
 
-[Live Demo Link](https://github.com/EnixWord/Hello_Microverse)
+[Live Demo Link](https://github.com/EnixWord/Review-Trial-Pair-Program)
 
 
 ## Getting Started
@@ -20,8 +20,8 @@ Web Browser
 Code Editor
 ### Setup
 ~~~bash
-git clone https://github.com/EnixWord/Hello_Microverse
-cd hello-world
+git clone https://github.com/EnixWord/Review-Trial-Pair-Program
+cd Review-Trial-Pair-Program
 ~~~
 
 
